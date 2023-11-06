@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     lateinit var binding: ActivityMainBinding
 
-    var operator = 4
+    var operator = 1
     // operator 1 == Sumar
     // operator 2 == Restar
     // operator 3 == Multiplicar
